@@ -26,9 +26,6 @@ This project is focused on classifying different categories of electronic waste 
 - **Project Report** — Documentation of the project work.
 - **Sample Screenshots** — Images of the Gradio app and predictions.
 
-> ⚠️ Note: The trained model file (`Efficient_classify.keras`) is **not included** due to file size limits.  
-If needed, it can be shared separately upon request.
-
 ---
 
 ## 💡 How to Use
